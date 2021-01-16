@@ -4,3 +4,6 @@
 [submodule "Rocket"]
 	path = Rocket
 	url = https://github.com/SergioBenitez/Rocket
+[submodule "rust-url"]
+	path = rust-url
+	url = https://github.com/servo/rust-url
